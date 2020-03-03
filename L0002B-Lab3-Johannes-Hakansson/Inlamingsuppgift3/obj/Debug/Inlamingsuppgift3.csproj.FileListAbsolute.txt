@@ -1,0 +1,10 @@
+c:\users\git_mf_stud_8445\source\repos\Inlamingsuppgift3\Inlamingsuppgift3\bin\Debug\Inlamingsuppgift3.exe.config
+c:\users\git_mf_stud_8445\source\repos\Inlamingsuppgift3\Inlamingsuppgift3\bin\Debug\Inlamingsuppgift3.exe
+c:\users\git_mf_stud_8445\source\repos\Inlamingsuppgift3\Inlamingsuppgift3\bin\Debug\Inlamingsuppgift3.pdb
+c:\users\git_mf_stud_8445\source\repos\Inlamingsuppgift3\Inlamingsuppgift3\obj\Debug\Inlamingsuppgift3.csprojAssemblyReference.cache
+c:\users\git_mf_stud_8445\source\repos\Inlamingsuppgift3\Inlamingsuppgift3\obj\Debug\Inlamingsuppgift3.Form1.resources
+c:\users\git_mf_stud_8445\source\repos\Inlamingsuppgift3\Inlamingsuppgift3\obj\Debug\Inlamingsuppgift3.Properties.Resources.resources
+c:\users\git_mf_stud_8445\source\repos\Inlamingsuppgift3\Inlamingsuppgift3\obj\Debug\Inlamingsuppgift3.csproj.GenerateResource.cache
+c:\users\git_mf_stud_8445\source\repos\Inlamingsuppgift3\Inlamingsuppgift3\obj\Debug\Inlamingsuppgift3.csproj.CoreCompileInputs.cache
+c:\users\git_mf_stud_8445\source\repos\Inlamingsuppgift3\Inlamingsuppgift3\obj\Debug\Inlamingsuppgift3.exe
+c:\users\git_mf_stud_8445\source\repos\Inlamingsuppgift3\Inlamingsuppgift3\obj\Debug\Inlamingsuppgift3.pdb
