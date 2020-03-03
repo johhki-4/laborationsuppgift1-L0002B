@@ -1,0 +1,7 @@
+c:\users\git_mf_stud_8445\source\repos\L0002B-Lab1-Johannes-Hakansson\L0002B-Lab1-Johannes-Hakansson\obj\Debug\L0002B-Lab1-Johannes-Hakansson.csprojAssemblyReference.cache
+c:\users\git_mf_stud_8445\source\repos\L0002B-Lab1-Johannes-Hakansson\L0002B-Lab1-Johannes-Hakansson\obj\Debug\L0002B-Lab1-Johannes-Hakansson.csproj.CoreCompileInputs.cache
+c:\users\git_mf_stud_8445\source\repos\L0002B-Lab1-Johannes-Hakansson\L0002B-Lab1-Johannes-Hakansson\bin\Debug\L0002B-Lab1-Johannes-Hakansson.exe.config
+c:\users\git_mf_stud_8445\source\repos\L0002B-Lab1-Johannes-Hakansson\L0002B-Lab1-Johannes-Hakansson\bin\Debug\L0002B-Lab1-Johannes-Hakansson.exe
+c:\users\git_mf_stud_8445\source\repos\L0002B-Lab1-Johannes-Hakansson\L0002B-Lab1-Johannes-Hakansson\bin\Debug\L0002B-Lab1-Johannes-Hakansson.pdb
+c:\users\git_mf_stud_8445\source\repos\L0002B-Lab1-Johannes-Hakansson\L0002B-Lab1-Johannes-Hakansson\obj\Debug\L0002B-Lab1-Johannes-Hakansson.exe
+c:\users\git_mf_stud_8445\source\repos\L0002B-Lab1-Johannes-Hakansson\L0002B-Lab1-Johannes-Hakansson\obj\Debug\L0002B-Lab1-Johannes-Hakansson.pdb
